@@ -1,0 +1,16 @@
+{
+  "name": "coming-soon",
+  "version": "1.0.0",
+  "main": "index.js",
+  "dependencies": {
+    "moment": "^2.24.0",
+    "webpack": "^4.41.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
